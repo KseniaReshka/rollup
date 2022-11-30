@@ -1,0 +1,21 @@
+{
+  "name": "rollup",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rollup",
+    "webpack"
+  ],
+  "author": "Ksenia",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-babel": "^6.0.3",
+    "rollup-plugin-img": "^1.1.0",
+    "rollup-plugin-styles": "^4.0.0"
+  }
+}
